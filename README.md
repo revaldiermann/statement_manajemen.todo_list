@@ -1,17 +1,48 @@
-# statement_manajemen
+# 📝 To-Do Manager (State Management)
 
-A new Flutter project.
+Aplikasi daftar tugas (To-Do List) modern yang dibangun menggunakan Flutter. Proyek ini berfokus pada implementasi **State Management menggunakan Provider** untuk mengelola data secara efisien dan responsif.
 
-## Getting Started
+## 🚀 Fitur Utama
+*   **Statistik Tugas:** Ringkasan jumlah total tugas, tugas aktif, dan tugas yang sudah selesai di bagian header.
+*   **Manajemen Tugas:** Tambah, tandai selesai (checklist), dan hapus tugas dengan mudah.
+*   **Prioritas:** Fitur untuk menandai tugas sebagai "Penting" dengan indikator visual warna merah.
+*   **Filter Canggih:** Menyaring daftar tugas berdasarkan status (Semua, Aktif, Selesai).
+*   **UI Modern:** Desain bersih dengan kartu (cards), bayangan halus, dan skema warna Deep Purple yang elegan.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Teknologi yang Digunakan
+*   **Flutter & Dart** - Framework utama.
+*   **Provider** - State Management untuk menangani logika bisnis dan pembaruan UI.
+*   **Material 3** - Desain komponen UI terbaru.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Tampilan Aplikasi
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+| Halaman Utama | Tambah Tugas |
+|---|---|
+| ![Home Page](https://placeholder.com) | ![Add Page](https://placeholder.com) |
+*(Tips: Ganti link gambar di atas dengan screenshot asli aplikasimu nanti)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Cara Menjalankan Proyek
+1.  **Clone repositori ini:**
+    ```bash
+    git clone https://github.com
+    ```
+2.  **Masuk ke direktori proyek:**
+    ```bash
+    cd statement_manajemen
+    ```
+3.  **Ambil package yang dibutuhkan:**
+    ```bash
+    flutter pub get
+    ```
+4.  **Jalankan aplikasi:**
+    ```bash
+    flutter run
+    ```
+
+## 📂 Struktur Folder
+*   `lib/models/`: Definisi data (Todo object).
+*   `lib/controllers/`: Logika bisnis (Provider/State Management).
+*   `lib/views/`: Komponen UI (Halaman Home & Tambah).
+
+---
+Dibuat dengan ❤️ oleh [revaldi ermansyah ](https://github.com/revaldiermann/statement_manajemen.todo_list.git)
