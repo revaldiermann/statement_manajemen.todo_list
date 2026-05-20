@@ -18,7 +18,7 @@ Aplikasi daftar tugas (To-Do List) modern yang dibangun menggunakan Flutter. Pro
 
 | Halaman Utama | Tambah Tugas |
 |---|---|
-| ![Home Page](https://placeholder.com) | ![Add Page](https://placeholder.com) |
+| ![Home Page](img/3.png) | ![Add Page](img/2.png) |
 *(Tips: Ganti link gambar di atas dengan screenshot asli aplikasimu nanti)*
 
 ## ⚙️ Cara Menjalankan Proyek
