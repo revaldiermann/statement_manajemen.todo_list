@@ -43,6 +43,7 @@ INSERT INTO `users` (`id`, `email`, `password`) VALUES
 (7, 'pal@gmail.com', '121212'),
 (8, 'revaldi@gmail.com', '121212'),
 (9, 'erman@gmail.com', '121212');
+(10, 'anto@gmail.com', '121212');
 
 --
 -- Indexes for dumped tables
@@ -68,3 +69,4 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
